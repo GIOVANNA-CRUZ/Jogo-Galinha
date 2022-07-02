@@ -1,6 +1,6 @@
 <h1>Jogo-Galinha</h1>
 
-<h2>Description and Funcionalities<h2>
+<h2>Description and Funcionalities</h2>
  This game is very simple, the wolf must catch the chicken, and every time he catches it, 
  the counter adds a number plus how many times the chicken was caught. This game was 
  developed with only HTML, CSS and Javascript
